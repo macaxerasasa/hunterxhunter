@@ -12,7 +12,8 @@ Site estático do RPG em formato de "área de trabalho" retrô.
 |---|---|
 | `content.js` | **Todo o texto dos documentos.** É o único arquivo que você precisa editar. |
 | `assets/img/` | Imagens extraídas dos Google Docs (logo, faixas de título, diagrama das categorias e mapa). |
-| `assets/ilustracoes/` | Ilustrações próprias em SVG que substituem as imagens do mangá. Recrie com `node ferramentas/gerar-ilustracoes.js` (título, cor e kanji de cada uma ficam na lista `LIST`, no fim desse script; os desenhos dos símbolos dentro dos medalhões ficam em `ferramentas/simbolos.js`). |
+| `assets/icones/` | Os 6 ícones em pixel art dos documentos (`nen`, `licenca`, `atributos`, `brasao`, `tesouro`, `calendario`). Para trocar um, substitua o PNG mantendo o mesmo nome. |
+| `assets/ilustracoes/` | Ilustrações próprias em pixel art (PNG) que substituem as imagens do mangá. Para recriar: `node ferramentas/gerar-ilustracoes.js` (título, cor e kanji de cada uma ficam na lista `LIST`, no fim desse script; os desenhos dos símbolos ficam em `ferramentas/simbolos.js`) e depois `npm i sharp` e `node ferramentas/pixelar-ilustracoes.js`. Os originais em vetor ficam em `ferramentas/ilustracoes-svg/`. |
 | `index.html`, `style.css`, `app.js` | Layout e funcionamento (não precisa mexer). Cada documento abre como um "site" próprio: nome, endereço, cabeçalho e rodapé ficam em `SITES` no `app.js`; o visual de cada um fica nas seções `site-<id>` do `style.css`. |
 | `docs/` | Cópia original baixada do Google Docs (Markdown). Não é usada pelo site. |
 | `ferramentas/gerar-content.js` | Opcional: recria `content.js` a partir de `docs/` (precisa do Node.js). |

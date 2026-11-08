@@ -1,10 +1,11 @@
 // Gera as ilustrações próprias (SVG) que substituem as imagens do mangá/anime.
 // Uso:  node ferramentas/gerar-ilustracoes.js
-// Saída: assets/ilustracoes/<doc>-imageN.svg  (mesmo nome da imagem original que substitui)
+// Saída: ferramentas/ilustracoes-svg/<doc>-imageN.svg  (mesmo nome da imagem original que substitui)
+// Depois rode  node ferramentas/pixelar-ilustracoes.js  para gerar os PNGs usados pelo site.
 
 const fs = require("fs");
 const path = require("path");
-const OUT = path.join(__dirname, "..", "assets", "ilustracoes");
+const OUT = path.join(__dirname, "ilustracoes-svg");
 fs.mkdirSync(OUT, { recursive: true });
 
 /* ---------- Símbolos (desenhados em ferramentas/simbolos.js) ---------- */
@@ -286,4 +287,4 @@ for (const [name, cfg] of Object.entries(LIST)) {
   const svg = cfg.type === "card" ? card(name, cfg) : banner(name, cfg);
   fs.writeFileSync(path.join(OUT, name + ".svg"), svg, "utf8");
 }
-console.log(Object.keys(LIST).length + " ilustrações geradas em assets/ilustracoes/");
+console.log(Object.keys(LIST).length + " ilustrações geradas em ferramentas/ilustracoes-svg/");

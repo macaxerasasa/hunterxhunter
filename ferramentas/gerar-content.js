@@ -58,7 +58,7 @@ for (const d of DOCS) {
     const m = line.match(/^\[(image\d+)\]: <data:image\/(\w+);base64,(.*)>\s*$/);
     if (m) {
       // Imagens que têm ilustração própria em assets/ilustracoes/ não são extraídas
-      if (fs.existsSync(path.join(ROOT, "assets", "ilustracoes", `${d.id}-${m[1]}.svg`))) continue;
+      if (fs.existsSync(path.join(ROOT, "assets", "ilustracoes", `${d.id}-${m[1]}.png`))) continue;
       fs.writeFileSync(path.join(ROOT, "assets", "img", `${d.id}-${m[1]}.${m[2]}`), Buffer.from(m[3], "base64"));
       continue;
     }
@@ -67,7 +67,7 @@ for (const d of DOCS) {
   let text = body.join("\n").replace(/\s+$/, "") + "\n";
   // ![][imageN] -> ![](assets/img/<doc>-imageN.png)
   text = text.replace(/!\[\]\[(image\d+)\]/g, (_, id) => {
-    if (fs.existsSync(path.join(ROOT, "assets", "ilustracoes", `${d.id}-${id}.svg`))) return `![](assets/ilustracoes/${d.id}-${id}.svg)`;
+    if (fs.existsSync(path.join(ROOT, "assets", "ilustracoes", `${d.id}-${id}.png`))) return `![](assets/ilustracoes/${d.id}-${id}.png)`;
     const file = fs.readdirSync(path.join(ROOT, "assets", "img")).find((f) => f.startsWith(`${d.id}-${id}.`));
     return `![](assets/img/${file})`;
   });

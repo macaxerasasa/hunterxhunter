@@ -23,76 +23,15 @@
      Ícones SVG (desenhos próprios)
      ------------------------------------------------------------------ */
   const OUT = 'stroke="#14100c" stroke-width="1.5" stroke-linejoin="round"';
+  // Ícones dos documentos: pixel art em assets/icones/ (o <svg> em volta mantém os tamanhos definidos no CSS)
+  const iconePng = (nome) => `<svg viewBox="0 0 256 256" aria-hidden="true"><image href="assets/icones/${nome}.png" width="256" height="256"/></svg>`;
   const ICONS = {
-    nen: `<svg viewBox="0 0 48 48" aria-hidden="true">
-      <ellipse cx="24" cy="30" rx="22" ry="18" fill="url(#ig-aura)"/>
-      <path d="M24 2c3 6 7 7 9 12 1-3 0-6 0-6 5 4 8 10 8 17 0 11-8 20-17 20S7 36 7 25c0-6 2-10 5-13 0 3 1 5 2 6 0-7 4-12 10-16z" fill="url(#ig-flame)" ${OUT}/>
-      <path d="M24 10c2 5 6 7 7 12 1-2 1-3 1-4 3 3 4 7 4 10 0 8-5 14-12 14s-12-6-12-14c0-4 2-7 4-9 0 3 1 4 2 5 0-6 2-10 6-14z" fill="#5fe39a" opacity=".85"/>
-      <path d="M24 19c2 3 6 6 6 11 0 5-3 9-6 9s-6-4-6-9c0-4 3-6 6-11z" fill="#eaffd8"/>
-      <circle cx="24" cy="28" r="3.2" fill="#0b3323"/>
-      <path d="M18.5 40c0-5 2.5-8 5.5-8s5.5 3 5.5 8z" fill="#0b3323"/>
-      <path d="M9 34c-2-2-3-5-3-8M39 34c2-2 3-5 3-8" fill="none" stroke="#b6ffd6" stroke-width="1.4" stroke-linecap="round"/>
-      <path d="M41 6l1 2.4 2.4 1-2.4 1-1 2.4-1-2.4-2.4-1 2.4-1z" fill="#fff6c8"/>
-    </svg>`,
-    licenca: `<svg viewBox="0 0 48 48" aria-hidden="true"><g transform="rotate(-7 24 24)">
-      <rect x="4" y="12" width="40" height="28" rx="3" fill="#000" opacity=".25" transform="translate(1.5 2)"/>
-      <rect x="4" y="10" width="40" height="28" rx="3" fill="url(#ig-paper)" ${OUT}/>
-      <path d="M5 13a2 2 0 0 1 2-2h34a2 2 0 0 1 2 2v5H5z" fill="url(#ig-red)"/>
-      <path d="M38 11.8l3.2 3.2-3.2 3.2-3.2-3.2z" fill="url(#ig-gold)" stroke="#5a3c06" stroke-width=".8"/>
-      <rect x="8" y="13.5" width="16" height="2" rx="1" fill="#fff" opacity=".8"/>
-      <rect x="8" y="21" width="11" height="13" rx="1" fill="url(#ig-blue)" stroke="#14100c" stroke-width="1.1"/>
-      <circle cx="13.5" cy="25.6" r="2.5" fill="#1f3a4a"/><path d="M9 34c0-4 2-6 4.5-6s4.5 2 4.5 6z" fill="#1f3a4a"/>
-      <path d="M22.5 23h17M22.5 27h13M22.5 31h17" stroke="#7a6a48" stroke-width="1.5" stroke-linecap="round"/>
-      <circle cx="38" cy="33.5" r="3" fill="url(#ig-gold)" stroke="#5a3c06" stroke-width=".7"/>
-      <path d="M6 11h22L12 38H6z" fill="url(#ig-shine)" opacity=".35"/>
-    </g></svg>`,
-    atributos: `<svg viewBox="0 0 48 48" aria-hidden="true">
-      <polygon points="24,2.5 42.6,13.2 42.6,34.8 24,45.5 5.4,34.8 5.4,13.2" fill="url(#ig-gold)" ${OUT}/>
-      <polygon points="24,6.5 39.2,15.2 39.2,32.8 24,41.5 8.8,32.8 8.8,15.2" fill="url(#ig-paper)" stroke="#8a6a1a" stroke-width=".8"/>
-      <polygon points="24,15 31.8,19.5 31.8,28.5 24,33 16.2,28.5 16.2,19.5" fill="none" stroke="#b8a77e" stroke-width=".8"/>
-      <path d="M24 6.5v35M8.8 15.2l30.4 17.6M39.2 15.2L8.8 32.8" stroke="#b8a77e" stroke-width=".8"/>
-      <polygon points="24,9.5 36.5,17 34,30.5 24,38 14,29.5 15,18" fill="url(#ig-red)" fill-opacity=".85" stroke="#5e0e15" stroke-width="1.3"/>
-      <g fill="url(#ig-gold)" stroke="#3a2606" stroke-width=".7"><circle cx="24" cy="9.5" r="1.9"/><circle cx="36.5" cy="17" r="1.9"/><circle cx="34" cy="30.5" r="1.9"/><circle cx="24" cy="38" r="1.9"/><circle cx="14" cy="29.5" r="1.9"/><circle cx="15" cy="18" r="1.9"/></g>
-      <path d="M8.8 15.2L24 6.5l15.2 8.7L24 20z" fill="url(#ig-shine)" opacity=".4"/>
-    </svg>`,
-    brasao: `<svg viewBox="0 0 48 48" aria-hidden="true">
-      <path d="M24 3l18 5.5v13C42 33.5 34 41 24 46 14 41 6 33.5 6 21.5v-13z" fill="url(#ig-gold)" ${OUT}/>
-      <path d="M24 6.5l15 4.6v10.6C39 31.6 32.4 38 24 42.4 15.6 38 9 31.6 9 21.7V11.1z" fill="url(#ig-green)"/>
-      <path d="M24 6.5v35.9C15.6 38 9 31.6 9 21.7V11.1z" fill="url(#ig-red)"/>
-      <path d="M9.6 29.5L24 18.5l14.4 11v4.6L24 23.2 9.6 34.1z" fill="url(#ig-gold)" stroke="#5a3c06" stroke-width=".9"/>
-      <path d="M24 9.2l1.6 3.4 3.7.4-2.8 2.5.8 3.6-3.3-1.9-3.3 1.9.8-3.6-2.8-2.5 3.7-.4z" fill="#fff3c4" stroke="#5a3c06" stroke-width=".6"/>
-      <path d="M9 11.1L24 6.5l15 4.6v5C30 13 18 13 9 18z" fill="url(#ig-shine)" opacity=".45"/>
-    </svg>`,
-    tesouro: `<svg viewBox="0 0 48 48" aria-hidden="true">
-      <circle cx="24" cy="10" r="9" fill="#9ff0ff" opacity=".25"/>
-      <path d="M24 2l5.5 6.5L24 15l-5.5-6.5z" fill="url(#ig-gem)" stroke="#0e4a62" stroke-width="1.1"/>
-      <path d="M6 23v-6c0-5 6-8.5 18-8.5S42 12 42 17v6z" fill="url(#ig-wood)" ${OUT}/>
-      <rect x="6" y="23" width="36" height="20" rx="1" fill="url(#ig-wood)" ${OUT}/>
-      <path d="M7 27h34M7 33h34M7 39h34" stroke="#3a220d" stroke-width=".7" opacity=".5"/>
-      <rect x="5.5" y="21" width="37" height="4" rx="1" fill="url(#ig-gold)" stroke="#5a3c06" stroke-width="1"/>
-      <rect x="12" y="9.8" width="3.6" height="33.2" fill="url(#ig-gold)" stroke="#5a3c06" stroke-width="1"/>
-      <rect x="32.4" y="9.8" width="3.6" height="33.2" fill="url(#ig-gold)" stroke="#5a3c06" stroke-width="1"/>
-      <rect x="20.2" y="19.5" width="7.6" height="9.5" rx="1.2" fill="url(#ig-gold)" stroke="#5a3c06" stroke-width="1.1"/>
-      <circle cx="24" cy="23" r="1.4" fill="#3a220d"/><path d="M24 23.5v3" stroke="#3a220d" stroke-width="1.3"/>
-      <path d="M8 16c3-4 10-5.5 16-5.5" fill="none" stroke="#fff" stroke-opacity=".45" stroke-width="1.5" stroke-linecap="round"/>
-      <path d="M41 3l1 2.5 2.5 1-2.5 1-1 2.5-1-2.5-2.5-1 2.5-1zM6 4l.7 1.6 1.6.7-1.6.7L6 8.6l-.7-1.6-1.6-.7 1.6-.7z" fill="#fff6c8"/>
-    </svg>`,
-    calendario: `<svg viewBox="0 0 48 48" aria-hidden="true">
-      <rect x="5" y="9.5" width="34" height="34" rx="2" fill="#000" opacity=".25"/>
-      <rect x="4" y="8" width="34" height="34" rx="2" fill="url(#ig-paper)" ${OUT}/>
-      <path d="M4.8 10a1.5 1.5 0 0 1 1.5-1.5h29.4a1.5 1.5 0 0 1 1.5 1.5v7H4.8z" fill="url(#ig-red)"/>
-      <rect x="10" y="4" width="3.6" height="8.5" rx="1.6" fill="url(#ig-steel)" stroke="#14100c"/>
-      <rect x="28.4" y="4" width="3.6" height="8.5" rx="1.6" fill="url(#ig-steel)" stroke="#14100c"/>
-      <g fill="#a39878"><rect x="9" y="21" width="4" height="3" rx=".5"/><rect x="16" y="21" width="4" height="3" rx=".5"/><rect x="23" y="21" width="4" height="3" rx=".5"/><rect x="30" y="21" width="4" height="3" rx=".5"/>
-      <rect x="9" y="27" width="4" height="3" rx=".5"/><rect x="16" y="27" width="4" height="3" rx=".5"/><rect x="9" y="33" width="4" height="3" rx=".5"/><rect x="16" y="33" width="4" height="3" rx=".5"/></g>
-      <rect x="23" y="27" width="4" height="3" rx=".5" fill="#a3222c"/>
-      <circle cx="35" cy="35" r="10.5" fill="url(#ig-gold)" ${OUT}/>
-      <circle cx="35" cy="35" r="7.6" fill="#fffaf0" stroke="#8a6a1a" stroke-width=".9"/>
-      <path d="M35 29.5v1.4M35 39.1v1.4M29.5 35h1.4M39.1 35h1.4" stroke="#8a6a1a" stroke-width="1"/>
-      <path d="M35 35V30.6M35 35l3.6 2.3" stroke="#14100c" stroke-width="1.7" stroke-linecap="round"/>
-      <circle cx="35" cy="35" r="1.2" fill="#a3222c"/>
-      <path d="M28 31a8 8 0 0 1 12-2.5" fill="none" stroke="#fff" stroke-opacity=".7" stroke-width="1.2" stroke-linecap="round"/>
-    </svg>`,
+    nen: iconePng("nen"),
+    licenca: iconePng("licenca"),
+    atributos: iconePng("atributos"),
+    brasao: iconePng("brasao"),
+    tesouro: iconePng("tesouro"),
+    calendario: iconePng("calendario"),
     logo: `<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 .5l7.5 7.5L8 15.5.5 8z" fill="url(#ig-red)" stroke="#3a0a0e" stroke-width=".8"/><path d="M8 3.6l4.4 4.4L8 12.4 3.6 8z" fill="url(#ig-gold)"/><path d="M8 6.2L9.8 8 8 9.8 6.2 8z" fill="#0f4d36"/></svg>`,
     rede: `<svg viewBox="0 0 16 16" aria-hidden="true"><rect x="1" y="2" width="9" height="7" fill="url(#ig-green)" stroke="#000" stroke-width=".8"/><rect x="6" y="7" width="9" height="7" fill="url(#ig-blue)" stroke="#000" stroke-width=".8"/><path d="M3 11v3h3" fill="none" stroke="#000" stroke-width=".8"/></svg>`,
     desligar: `<svg viewBox="0 0 48 48" aria-hidden="true"><rect x="6" y="8" width="36" height="26" rx="2" fill="url(#ig-steel)" stroke="#14100c" stroke-width="1.5"/><rect x="10" y="12" width="28" height="18" fill="#0d3b2e"/><path d="M16 40h16M24 34v6" stroke="#14100c" stroke-width="2"/><circle cx="24" cy="21" r="5" fill="none" stroke="#f39a2b" stroke-width="2"/><path d="M24 14.5v6" stroke="#f39a2b" stroke-width="2"/></svg>`,

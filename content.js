@@ -88,7 +88,7 @@ Essas técnicas básicas se adaptam naturalmente a um Usuário de Nen experiente
      
    Como **Ten** evita o vazamento da energia vital do corpo, consequentemente impede o desgaste e retarda o processo de envelhecimento. **Ten** também é a defesa mais básica contra ataques emocionais de Nen e oferece proteção limitada contra ataques físicos, embora essa proteção seja menor contra ataques reforçados com aura. Com meditação e prática frequente, pode-se melhorar a qualidade do **Ten** e até mesmo mantê-lo durante o sono.  
      
-   ![](assets/ilustracoes/nen-image3.svg)  
+   ![](assets/ilustracoes/nen-image3.png)  
      
 2. **ZETSU:**  
    Enquanto o **Ten** permite que um usuário evite que a aura vaze de seu corpo, **Zetsu** (絶, "Suprimir") interrompe completamente o fluxo de aura. Ao fechar todos os seus nós de aura, o usuário anula totalmente o fluxo de sua aura, tornando sua presença muito mais difícil ou até impossível de ser detectada.  
@@ -97,14 +97,14 @@ Essas técnicas básicas se adaptam naturalmente a um Usuário de Nen experiente
      
    **Zetsu** também pode ser usado para aliviar a fadiga, pois força a contenção completa da camada externa da aura do corpo. Pelo mesmo motivo, pode ser perigoso, pois deixa o corpo indefeso contra qualquer ataque de aura. Mesmo um ataque fraco aprimorado com Nen pode causar danos massivos. Sem a proteção do **Ten**, um usuário de **Zetsu** também é especialmente vulnerável a ataques emocionais hostis, tornando sua mente tão frágil quanto seu corpo.  
      
-   ![](assets/ilustracoes/nen-image4.svg)  
+   ![](assets/ilustracoes/nen-image4.png)  
      
 3. **REN:**  
    **Ren** (練, "Refinar"/"Aprimorar") concentra-se em gerar uma quantidade maior de aura do que o **Ten**, projetando-a para fora de forma explosiva. Isso aumenta a força física e a durabilidade do usuário, além de fornecer uma grande quantidade de aura para técnicas avançadas ou habilidades individuais, embora ao custo de gastar essa aura. Se o **Ten** for considerado puramente defensivo, o **Ren** pode ser visto como sua contraparte ofensiva, embora também melhore significativamente as defesas do usuário.  
      
    Ao tingir seu **Ren** com hostilidade, um Usuário de Nen pode exercer o que é coloquialmente chamado de "sede de sangue". A exposição prolongada a esse **Ren** malicioso pode induzir medo incontrolável, paralisia e, sem a proteção de **Ten**, até a morte. Por outro lado, um **Ren** neutro raramente é sentido por Não-Usuários. Como **Ren** é uma demonstração de poder, ele também pode intimidar outros Usuários de Nen, pois oferece uma medida aproximada da força do praticante; quando alguém pergunta "mostre-me seu Ren", geralmente quer ver os frutos do treinamento, como uma Habilidade Nen, em vez do próprio **Ren**. Na maioria dos casos, **Ren** reflete a hostilidade do usuário sem seu controle, podendo até deixar rastros fracos no ambiente após a saída do Usuário de Nen.  
      
-   ![](assets/ilustracoes/nen-image5.svg)  
+   ![](assets/ilustracoes/nen-image5.png)  
      
 4. **HATSU:**  
    **Hatsu** (発ハツ; "Liberar"/"Agir") é a expressão individual de Nen. Suas qualidades são influenciadas, mas não restritas, à categoria Nen natural do Usuário de Nen, uma das seis disponíveis. **Hatsu** é usado para projetar a aura para realizar uma determinada função, criando uma habilidade paranormal especial e única que é chamada de "Habilidade Nen" (念ネン能のう力りょく, Nen Nōryoku) ou simplesmente "Habilidade" (能のう力りょく, Nōryoku).  
@@ -113,7 +113,7 @@ Essas técnicas básicas se adaptam naturalmente a um Usuário de Nen experiente
      
    Uma vez que podem ter uma gama imensamente vasta de efeitos, as Habilidades Nen podem ser reconhecidas como qualquer manifestação do Nen que não pode ser atribuída a uma das técnicas básicas ou avançadas.  
      
-   ![](assets/ilustracoes/nen-image6.svg)  
+   ![](assets/ilustracoes/nen-image6.png)  
    
 
 ---
@@ -131,7 +131,7 @@ Existem aproximações numéricas para indicar a eficiência de um Usuário de N
      
    O **Reforço** também é a categoria mais equilibrada e permite que os usuários se distribuam uniformemente entre o ataque e a defesa e se tornem muito poderosos usando apenas habilidades simples.  
      
-   ![](assets/ilustracoes/nen-image8.svg)  
+   ![](assets/ilustracoes/nen-image8.png)  
      
 2. **TRANSMUTAÇÃO:**  
    Uma afinidade com **Transmutação** (変へん化か系けい, Henka-kei; abrev. como 変) significa que uma pessoa pode alterar as propriedades de sua aura para imitar outra coisa ou replicar atributos específicos. A aura transmutada pode assumir propriedades de elementos naturais, substâncias artificiais e até animais. Alterar a forma da aura também se enquadra nesta categoria Nen.  
@@ -140,14 +140,14 @@ Existem aproximações numéricas para indicar a eficiência de um Usuário de N
      
    Semelhante à **Emissão**, os construtos criados via **Transmutação** são pura aura e, portanto, invisíveis para indivíduos incapazes de usar Nen. A **Transmutação** é frequentemente confundida com **Conjuração** devido às suas semelhanças. A diferença é que a **Transmutação** permite ao usuário fazer com que sua aura imite as propriedades de uma substância, enquanto a **Conjuração** transforma a aura na substância real.  
      
-   ![](assets/ilustracoes/nen-image9.svg)  
+   ![](assets/ilustracoes/nen-image9.png)  
      
 3. **EMISSÃO:**  
    Uma afinidade com **Emissão** (放ほう出しゅつ系けい, Hōshutsu-kei; abrev. como 放) significa que o usuário tem mais facilidade em separar sua aura de seu corpo. Devido às suas propriedades, a **Emissão** é normalmente empregada em habilidades com ênfase no alcance e/ou naquelas que possuem efeitos duradouros. As aplicações básicas incluem disparar projéteis ou feixes de aura em alta velocidade. A aura geralmente diminui de intensidade muito rapidamente quando deixa o corpo fonte, mas Emissores adeptos podem separar sua aura de seu corpo por longos períodos de tempo, por longas distâncias, e ainda assim ser capazes de mantê-la e suas funções.  
      
    Embora a **Emissão** seja usada principalmente para atacar, ela também pode ser usada para se impulsionar, ou para lançar um efeito pertencente a outro tipo de Nen remotamente. Aplicações avançadas desta categoria Nen incluem teletransporte e permitir que a aura passe através de matéria não viva. A **Emissão** também pode ser combinada com música para obter efeitos surpreendentes, como aliviar a fadiga e paralisar os ouvintes. Em alguns casos, os usuários demonstraram capacidade de recuperar a aura emitida; embora, até agora, isso só tenha ocorrido quando a **Manipulação** também estava envolvida.  
      
-   ![](assets/ilustracoes/nen-image10.svg)  
+   ![](assets/ilustracoes/nen-image10.png)  
      
 4. **CONJURAÇÃO:**  
    Na maioria dos casos, **Conjuração** (具ぐ現げん化か系けい, Gugenka-kei; abrev. como 具) envolve a criação de um objeto físico, independente e material a partir da aura; no entanto, os usuários desta categoria também podem criar leis e princípios e fixá-los em uma área específica, ou até mesmo criar sua própria dimensão de bolso. Embora um Conjurador tenha que passar por um árduo treinamento de visualização e conhecimento acerca do que será moldado, uma vez que tenha dominado a materialização de um determinado objeto, ele poderá conjurá-lo e dissipá-lo em um instante, sempre que quiser.  
@@ -156,7 +156,7 @@ Existem aproximações numéricas para indicar a eficiência de um Usuário de N
      
    **Conjuração** é a única maneira pela qual o Nen pode criar coisas que Não-Usuários podem ver e tocar, a menos que estejam escondidas dos sentidos com **In**. Alternativamente, os Conjuradores podem criar habilidades cujas construções são invisíveis para Não-Usuário e até mesmo para usuários específicos de Nen, a tal ponto que apenas uma pessoa pode ser capaz de percebê-las. No entanto, quanto menos pessoas puderem ver uma construção conjurada, menor será o **Risco** e mais energia será gasta em sua criação, resultando em um aumento no custo da aura.  
      
-   ![](assets/ilustracoes/nen-image11.svg)  
+   ![](assets/ilustracoes/nen-image11.png)  
      
 5. **MANIPULAÇÃO:**  
    Habilidades pertencentes à **Manipulação** (操そう作さ系けい, Sōsa-kei; abrev. como 操) permitem ao usuário controlar coisas vivas ou não vivas, incluindo construções de aura. A principal vantagem desta categoria em combate é a capacidade de manipular o próprio inimigo.  
@@ -172,7 +172,7 @@ Existem aproximações numéricas para indicar a eficiência de um Usuário de N
 
    
 
-   ![](assets/ilustracoes/nen-image12.svg)
+   ![](assets/ilustracoes/nen-image12.png)
 
    
 
@@ -181,7 +181,7 @@ Existem aproximações numéricas para indicar a eficiência de um Usuário de N
      
    De acordo com a sua natureza, os seus efeitos são abrangentes. Alguns influenciam o próprio **Hatsu** (por exemplo, apropriando-se das Habilidades Nen de outros ou alterando afinidades), enquanto outros permitem ao usuário acumular conhecimento que seria inatingível por outros meios, como sobre eventos passados ou futuros.  
      
-   ![](assets/ilustracoes/nen-image13.svg)
+   ![](assets/ilustracoes/nen-image13.png)
 `
   },
 
@@ -263,25 +263,25 @@ Estrelas refletem na contribuição de um Caçador para a Associação dos Caça
 
 # TIPOS DE CAÇADORES
 
-| BEAST HUNTER ![](assets/ilustracoes/manual-image3.svg) Caçadores que se especializam em fauna. Buscam e catalogam diferentes e novas espécies de animais. | BLACKLIST HUNTER ![](assets/ilustracoes/manual-image4.svg) Caçadores que se especializam em caçar criminosos perigosos e procurados no mundo inteiro. | BOTANICAL HUNTER![](assets/ilustracoes/manual-image5.svg) Caçadores que se especializam na flora. Buscam e catalogam diferentes e novas espécies de plantas. |
+| BEAST HUNTER ![](assets/ilustracoes/manual-image3.png) Caçadores que se especializam em fauna. Buscam e catalogam diferentes e novas espécies de animais. | BLACKLIST HUNTER ![](assets/ilustracoes/manual-image4.png) Caçadores que se especializam em caçar criminosos perigosos e procurados no mundo inteiro. | BOTANICAL HUNTER![](assets/ilustracoes/manual-image5.png) Caçadores que se especializam na flora. Buscam e catalogam diferentes e novas espécies de plantas. |
 | ----- | ----- | ----- |
 
-| CARD HUNTER ![](assets/ilustracoes/manual-image6.svg) Caçadores que se especializam e buscam por cartas raras ao redor do mundo. | CRIME HUNTER ![](assets/ilustracoes/manual-image7.svg) Caçadores que se especializam em buscar e solucionar casos misteriosos no mundo do crime. | CUTE HUNTER![](assets/ilustracoes/manual-image8.svg) Caçadores que se especializam em manter a beleza das pessoas e torná-las aparentemente mais jovens do que são. |
+| CARD HUNTER ![](assets/ilustracoes/manual-image6.png) Caçadores que se especializam e buscam por cartas raras ao redor do mundo. | CRIME HUNTER ![](assets/ilustracoes/manual-image7.png) Caçadores que se especializam em buscar e solucionar casos misteriosos no mundo do crime. | CUTE HUNTER![](assets/ilustracoes/manual-image8.png) Caçadores que se especializam em manter a beleza das pessoas e torná-las aparentemente mais jovens do que são. |
 | ----- | ----- | ----- |
 
-| DISEASE HUNTER ![](assets/ilustracoes/manual-image9.svg) Caçadores que se especializam na medicina e buscam por elementos que possam curar doenças imedicáveis. | GOURMET HUNTER ![](assets/ilustracoes/manual-image10.svg) Caçadores que se especializam em viajar o mundo em busca de novos ingredientes e novas receitas da culinária.  | HACKER HUNTER![](assets/ilustracoes/manual-image11.svg) Caçadores que se especializam na computação, conhecimento acerca da internet e resolução de crimes cibernéticos. |
+| DISEASE HUNTER ![](assets/ilustracoes/manual-image9.png) Caçadores que se especializam na medicina e buscam por elementos que possam curar doenças imedicáveis. | GOURMET HUNTER ![](assets/ilustracoes/manual-image10.png) Caçadores que se especializam em viajar o mundo em busca de novos ingredientes e novas receitas da culinária.  | HACKER HUNTER![](assets/ilustracoes/manual-image11.png) Caçadores que se especializam na computação, conhecimento acerca da internet e resolução de crimes cibernéticos. |
 | ----- | ----- | ----- |
 
-| HEAD HUNTER ![](assets/ilustracoes/manual-image12.svg) Caçadores que se especializam em descobrir e cultivar novos talentos em diversas áreas. | JACKPOT HUNTER ![](assets/ilustracoes/manual-image13.svg) Caçadores que se especializam em ganhar dinheiro, não importa o motivo. Buscam pessoas ricas para fecharem contratos e negócios. | LOST HUNTER![](assets/ilustracoes/manual-image14.svg) Caçadores que se especializam em buscar e resgatar indivíduos que tiveram o contato perdido. |
+| HEAD HUNTER ![](assets/ilustracoes/manual-image12.png) Caçadores que se especializam em descobrir e cultivar novos talentos em diversas áreas. | JACKPOT HUNTER ![](assets/ilustracoes/manual-image13.png) Caçadores que se especializam em ganhar dinheiro, não importa o motivo. Buscam pessoas ricas para fecharem contratos e negócios. | LOST HUNTER![](assets/ilustracoes/manual-image14.png) Caçadores que se especializam em buscar e resgatar indivíduos que tiveram o contato perdido. |
 | ----- | ----- | ----- |
 
-| MUSIC HUNTER ![](assets/ilustracoes/manual-image15.svg) Caçadores que se especializam em buscar peças, partituras e instrumentos perdidos ao longo do tempo. | PALEOGRAPH HUNTER ![](assets/ilustracoes/manual-image16.svg) Caçadores que se especializam em aprender e traduzir línguas anciãs e línguas perdidas. | POACHER HUNTER![](assets/ilustracoes/manual-image17.svg) Caçadores que se especializam em estudar animais e protegê-los de caçadas inapropriadas. |
+| MUSIC HUNTER ![](assets/ilustracoes/manual-image15.png) Caçadores que se especializam em buscar peças, partituras e instrumentos perdidos ao longo do tempo. | PALEOGRAPH HUNTER ![](assets/ilustracoes/manual-image16.png) Caçadores que se especializam em aprender e traduzir línguas anciãs e línguas perdidas. | POACHER HUNTER![](assets/ilustracoes/manual-image17.png) Caçadores que se especializam em estudar animais e protegê-los de caçadas inapropriadas. |
 | ----- | ----- | ----- |
 
-| POISON HUNTER ![](assets/ilustracoes/manual-image18.svg) Caçadores que se especializam em diferentes tipos de venenos e seus usos farmacêuticos. | RUINS HUNTER ![](assets/ilustracoes/manual-image19.svg) Caçadores que se especializam em descobrir, restaurar e preservar ruínas para “reviver” sociedades antigas. | SEA HUNTER![](assets/ilustracoes/manual-image20.svg) Caçadores que se especializam em buscar por animais ou tesouros escondidos em terrenos marinhos. |
+| POISON HUNTER ![](assets/ilustracoes/manual-image18.png) Caçadores que se especializam em diferentes tipos de venenos e seus usos farmacêuticos. | RUINS HUNTER ![](assets/ilustracoes/manual-image19.png) Caçadores que se especializam em descobrir, restaurar e preservar ruínas para “reviver” sociedades antigas. | SEA HUNTER![](assets/ilustracoes/manual-image20.png) Caçadores que se especializam em buscar por animais ou tesouros escondidos em terrenos marinhos. |
 | ----- | ----- | ----- |
 
-| TERRORIST HUNTER ![](assets/ilustracoes/manual-image21.svg) Caçadores que se especializam em localizar terroristas antecipadamente e prevenir o mundo de seus ataques. | TREASURE HUNTER ![](assets/ilustracoes/manual-image22.svg) Caçadores que se especializam em descobrir itens raros e valiosos ao redor do mundo, incluindo joias, pedras e artefatos. | ROOKIE![](assets/ilustracoes/manual-image23.svg) Caçadores que ainda não definiram uma área de especialização. |
+| TERRORIST HUNTER ![](assets/ilustracoes/manual-image21.png) Caçadores que se especializam em localizar terroristas antecipadamente e prevenir o mundo de seus ataques. | TREASURE HUNTER ![](assets/ilustracoes/manual-image22.png) Caçadores que se especializam em descobrir itens raros e valiosos ao redor do mundo, incluindo joias, pedras e artefatos. | ROOKIE![](assets/ilustracoes/manual-image23.png) Caçadores que ainda não definiram uma área de especialização. |
 | ----- | ----- | ----- |
 `
   },
@@ -564,7 +564,7 @@ Dentro do Mundo Conhecido, existem inúmeras famílias de grande importância pa
 
 # FAMÍLIA GEIL
 
-![](assets/ilustracoes/familias-image3.svg)
+![](assets/ilustracoes/familias-image3.png)
 
 A família Geil é a fundadora de uma multinacional farmacêutica de grande aporte pelo mundo conhecido: seus investimentos estão na medicina privada, em financiamento para a pública, além da manufatura e venda de remédios ao longo de todos os continentes. Além disso, há departamentos de pesquisa para inovação, filantropia, biomedicina e virologia, sempre alçando a possibilidade de descobrir novas doenças e neutralizá-las antes mesmo de se tornarem um problema, ao menos é o que se acredita.
 
@@ -585,7 +585,7 @@ Há um boato de que os membros da família Geil possuem uma predisposição maio
 
 # FAMÍLIA ZECCHE
 
-![](assets/ilustracoes/familias-image4.svg)
+![](assets/ilustracoes/familias-image4.png)
 
 Desde tempos imemoriais, os membros da família Zecche têm se dedicado à arte da caça em seus mais diversos aspectos, não apenas na busca por presas, mas no treinamento e aperfeiçoamento de habilidades que os tornem os caçadores mais poderosos do mundo. A linhagem não busca apenas dominar técnicas de combate ou habilidade física, mas formar indivíduos capazes de caçar o impossível, com o objetivo maior de desbravar territórios inexplorados, como o enigmático e mortal **Continente Negro**. Este é o destino de cada membro: desenvolver-se a tal ponto que se torne capaz de atravessar os limites do conhecido e **sobreviver** nas regiões mais inóspitas e perigosas.
 
@@ -603,7 +603,7 @@ Apesar de possuírem influência e contatos espalhados pelo mundo, os Zecche seg
 
 # FAMÍLIA AGRIPPA
 
-![](assets/ilustracoes/familias-image5.svg)
+![](assets/ilustracoes/familias-image5.png)
 
 A família Agrippa é membra da organização informal dos “Dez Dons”, que comandam as respectivas dez famílias mafiosas que subsistem diante de um intricado e frágil sistema de respeito mútuo e cooperação ocasional entre cada uma dessas facções. Essas famílias se proliferaram à margem da sociedade e ganharam tanto respeito quanto prestígio conforme aumentaram suas operações ilegais e foram, em simultâneo, alimentando suas fachadas legais e até mesmo ganhando poder público ao subornar políticos e governadores, além de líderes mundiais.
 
@@ -626,7 +626,7 @@ Há um boato que, mesmo **sem saber Nen**, os membros da família acabam por des
 
 # FAMÍLIA ZOLDYCK
 
-![](assets/ilustracoes/familias-image6.svg)
+![](assets/ilustracoes/familias-image6.png)
 
 Há centenas de anos, a família Zoldyck vem se estabelecendo mais e mais no cenário mundial como a mais eficiente, letal e cara família de assassinos de todo o mundo, mesmo que não sejam singulares, no sentido abrangente, neste ramo. O que os diferencia dos demais clãs e núcleos de assassinos é não só o talento congênito, mas o treinamento árduo que atravessam desde a infância para se transformarem nos mais perigosos matadores de aluguel que alguém poderia contratar.
 
@@ -650,7 +650,7 @@ Desde o ano passado, quando a **BountyNet** proporcionou um crescimento explosiv
 
 # FAMÍLIA HUI GUO ROU
 
-![](assets/ilustracoes/familias-image7.svg)
+![](assets/ilustracoes/familias-image7.png)
 
 Há séculos, o nome Hui Guo Rou ocupa o centro de poder no **Império de Kakin**, representando não apenas sua família imperial, mas uma linhagem criada para governar uma das maiores potências do **Mundo Conhecido**. Para os Hui Guo Rou, nascer na família significa carregar desde cedo a responsabilidade de preservar e expandir a **influência** de Kakin, sendo seus membros educados para enxergar o mundo através de poder e diplomacia. Cada descendente recebe uma formação rigorosa em política, economia, história, estratégia e relações internacionais, aprendendo que um governante incapaz de compreender aqueles abaixo de si jamais será capaz de controlá-los. Assim, mesmo aqueles que nunca ocupam posições diretamente ligadas ao governo, costumam crescer como indivíduos extremamente instruídos e persuasivos.
 
@@ -675,7 +675,7 @@ Embora todos os descendentes sejam oficialmente membros da família imperial, Ji
 
 # FAMÍLIA SUNNY
 
-![](assets/ilustracoes/familias-image8.svg)
+![](assets/ilustracoes/familias-image8.png)
 
 A família Sunny, runner-up nas listas de famílias mais ricas do Mundo Conhecido, são detentores de estimadamente oitenta por cento de todas as fazendas e produtoras agrícolas ao longo de todos os continentes, evitando o monopólio tão somente pela lei expressa de inúmeros governos que compreenderam o quão perigoso poderia ser o domínio completo e absoluto do núcleo. Sua concorrência hoje em dia é tão somente a estrutura governamental, que tenta alçar alguma fagulha de independência ao preservar terras geridas por seus respectivos estados.
 
@@ -716,7 +716,7 @@ Ao que tudo indica, **Timmy Sunny** foi o mandante do massacre do **Clã Kurta**
 
 # PRODÍGIO
 
-![](assets/ilustracoes/aquisicoes-image3.svg)
+![](assets/ilustracoes/aquisicoes-image3.png)
 
 O termo "**Prodígio**" se refere a indivíduos que demonstram talento excepcional de **uma** em **dez milhões** de pessoas, e uma capacidade de aprendizado acima da média desde a infância. Possuem instintos naturais apurados, reflexos excepcionais e um intelecto aguçado, permitindo que dominem novas técnicas e estratégias com velocidade impressionante. Seja no combate ou em situações do dia a dia, um prodígio aprende e se adapta com uma facilidade assustadora, tornando-se uma ameaça mesmo para adversários experientes.
 
@@ -730,7 +730,7 @@ Se for um **Usuário de Nen**, um prodígio desbloqueia e controla sua energia m
 
 # GENIALIDADE
 
-![](assets/ilustracoes/aquisicoes-image4.svg)
+![](assets/ilustracoes/aquisicoes-image4.png)
 
 A **Genialidade** representa uma capacidade intelectual extraordinária, permitindo que o indivíduo compreenda situações, pessoas e habilidades em uma profundidade que a maioria jamais alcançaria. Diferente de um *Prodígio*, que se destaca pelo talento natural e velocidade de aprendizado, um gênio se destaca pela análise, dedução e compreensão. Informações aparentemente desconexas podem ser reunidas rapidamente, permitindo que formule hipóteses precisas e encontre padrões onde outros enxergariam apenas caos. Em combate, após observar uma mesma habilidade por **2 turnos**, pode começar a deduzir seu funcionamento, identificando possíveis condições, alcance, limitações e padrões de ativação com base no que já foi demonstrado. Após **3 turnos** enfrentando o mesmo oponente, sua análise comportamental também permite reconhecer tendências em seus ataques, defesas e tomadas de decisão, facilitando a previsão de suas próximas ações.
 
@@ -742,7 +742,7 @@ Se for um **Usuário de Nen**, sua genialidade se manifesta de forma ainda mais 
 
 # OLHOS ESCARLATES
 
-![](assets/ilustracoes/aquisicoes-image5.svg)
+![](assets/ilustracoes/aquisicoes-image5.png)
 
 Os **Olhos Escarlates** são uma característica inata e extremamente rara pertencente aos descendentes do **Clã Kurta**, povo considerado extinto após o massacre atribuído à família **Sunny**. Quando despertados, os olhos assumem uma coloração vermelha intensa e colocam o corpo em um estado de excitação extrema, ampliando drasticamente suas capacidades físicas, percepção e intensidade emocional. Sua manifestação acontece naturalmente diante de emoções fortes, principalmente raiva, ódio, medo ou desejo de vingança, podendo inicialmente ocorrer contra a vontade do próprio indivíduo. Com treinamento, torna-se possível provocar ou interromper conscientemente esse estado, embora controlar os olhos não signifique necessariamente controlar as emoções despertadas por eles.
 
@@ -754,7 +754,7 @@ Após os **4 turnos**, o indivíduo pode desativar os olhos normalmente ou **for
 
 # SEDE DE SANGUE
 
-![](assets/ilustracoes/aquisicoes-image6.svg)
+![](assets/ilustracoes/aquisicoes-image6.png)
 
 A **Sede de Sangue** é uma manifestação extremamente rara de fascínio pelo combate, característica de indivíduos cuja relação com perigo, dor e violência foge completamente do normal. Quanto mais ameaçador e imprevisível se torna um confronto, maior é sua excitação, fazendo com que seu corpo responda ao perigo como se estivesse sendo estimulado em vez de intimidado. Ao encontrar alguém que considere uma verdadeira ameaça, sua atenção pode se tornar quase obsessiva, aguçando seus sentidos e fazendo com que medo, hesitação e autopreservação sejam gradualmente substituídos pelo desejo de prolongar e aproveitar a batalha.
 
@@ -766,7 +766,7 @@ Entretanto, quanto mais intensa se torna a luta, mais difícil é abandonar aqui
 
 # ILUMINADO DE BUDA
 
-![](assets/ilustracoes/aquisicoes-image7.svg)
+![](assets/ilustracoes/aquisicoes-image7.png)
 
 O **Iluminado de Buda** é alguém que encontrou na repetição e na disciplina um caminho próprio para ultrapassar os limites do corpo humano. Durante anos, submeteu-se voluntariamente a treinamentos exaustivos, movimentos repetidos milhares de vezes, longos períodos de concentração e exercícios que exigiam domínio absoluto sobre respiração, postura e ritmo. Sua evolução não veio de genialidade ou talento excepcional, mas da capacidade quase incompreensível de continuar aperfeiçoando a mesma ação mesmo depois de todos os outros considerarem que ela já havia sido dominada. Por conta disso, seus movimentos possuem uma **precisão anormal** para alguém de sua experiência, seu corpo responde rapidamente ao perigo e sua resistência física e mental permite que continue agindo mesmo quando a exaustão começa a comprometer outros combatentes.
 
@@ -782,7 +782,7 @@ O preço dessa transcendência é severo. Ao término do **Nirvana**, o esforço
 
 # BANCO DE DADOS
 
-![](assets/ilustracoes/aquisicoes-image8.svg)
+![](assets/ilustracoes/aquisicoes-image8.png)
 
 O indivíduo é abençoado com um banco de dados pessoal próprio e completo, provavelmente roubado através de algum broker que operava na **Associação Hunter** ou ao conseguir os dados de algum **Caçador Hacker** descuidado. Isso o concede a habilidade de conseguir informações acerca de terceiros que outros não teriam tão facilmente, ou teriam de buscar ou pagar para obter por meios legais ou ilegais.
 
@@ -794,7 +794,7 @@ Apesar de seu grande valor, o apetrecho é intransferível e, se quebrado, será
 
 # VONTADE INABALÁVEL
 
-![](assets/ilustracoes/aquisicoes-image9.svg)
+![](assets/ilustracoes/aquisicoes-image9.png)
 
 Através de grande fortitude mental e um espírito oceânico que não se aquieta facilmente, o indivíduo é abençoado com uma resolução inigualável, que não falha nem mesmo diante das mais poderosas persuasões. O guerreiro torna-se impermeável diante do **Medo**, da **Hesitação** e de quaisquer formas de controle mental, mesmo que isso possa ocasionar em danos recebidos diretamente do **Nen**, ao tentar resistir contra o **Hatsu** **de um Manipulador**.
 
@@ -806,7 +806,7 @@ Além disso, em cenários que outros geralmente falhariam em manter a compostura
 
 # SHINOBI
 
-![](assets/ilustracoes/aquisicoes-image10.svg)
+![](assets/ilustracoes/aquisicoes-image10.png)
 
 Experimentando um árduo treinamento desde a infância, o usuário começa **com um ponto** em cada um de seus atributos físicos, iniciando a sua jornada com **Força**, **Velocidade** e **Resistência** no **Ranque C**, além de ter uma predisposição maior a aprender o **Nen**, considerando seus prolongados períodos de meditação enquanto era treinado.
 
@@ -820,7 +820,7 @@ Oriundo do Jappon, o shinobi ainda é conhecedor do mito do Pergaminho do Eremit
 
 # SENTIDOS AGUÇADOS
 
-![](assets/ilustracoes/aquisicoes-image11.svg)
+![](assets/ilustracoes/aquisicoes-image11.png)
 
 Nascido com sentidos aguçadíssimos, o usuário é capaz de demonstrar uma sensibilidade quase que paranormal quando o assunto é os cinco sentidos humanos.
 
@@ -836,7 +836,7 @@ O **tato** e o **paladar** também são sensíveis, permitindo detectar venenos 
 
 # MÍMICO DE NEN
 
-![](assets/ilustracoes/aquisicoes-image12.svg)
+![](assets/ilustracoes/aquisicoes-image12.png)
 
 O **Mímico de Nen** é um indivíduo singular no mundo, sendo capaz de, ao ser atingido por uma técnica de contato, replicá-la para adicioná-la ao próprio arsenal, tornando-se uma máquina de conhecimento crescente que segue se renovando. Apesar de ser mais um dom pessoal do que um artifício do **Nen**, ainda é preciso grande proficiência na Força da Mente para utilizá-lo.
 
@@ -850,7 +850,7 @@ O **Mímico de Nen** é um indivíduo singular no mundo, sendo capaz de, ao ser 
 
 # DUPLA AFINIDADE
 
-![](assets/ilustracoes/aquisicoes-image13.svg)
+![](assets/ilustracoes/aquisicoes-image13.png)
 
 O usuário possui um grande talento inato para o uso de **Nen**, mesmo que não o conheça de início. A característica da **Dupla Afinidade** confere a capacidade de **aprender e dominar** uma categoria adjacente tão bem quanto se aprenderia a categoria principal, transformando o usuário em um valete de grande potencial dentre os usuários conhecidos.
 
@@ -860,7 +860,7 @@ Contudo, mesmo que o usuário aprenda e domine a categoria adjacente com maior v
 
 # REGENERAÇÃO ACELERADA
 
-![](assets/ilustracoes/aquisicoes-image14.svg)
+![](assets/ilustracoes/aquisicoes-image14.png)
 
 Possuir um grande fator regenerativo é uma grande vantagem em situações de combate diversas, mas acima de tudo, é o que define o quão rápido um indivíduo estará apto para treinar e lutar outra vez, fato que, se não considerado, pode levar muitos combatentes à morte.
 
@@ -874,7 +874,7 @@ Se combinado com alguma medicina, o corpo preparado do guerreiro pode resistir c
 
 # EXORCISTA DE NEN
 
-![](assets/ilustracoes/aquisicoes-image15.svg)
+![](assets/ilustracoes/aquisicoes-image15.png)
 
 Uma habilidade única e extremamente cobiçada no Mundo Conhecido, **Exorcistas de Nen** são indivíduos capacitados, através de rituais próprios, de eliminar os efeitos de um **Hatsu** do próprio corpo ou do corpo de um terceiro, criando maldições vivas, geradas a partir do próprio **Nen**, que perseguem-no até que ele encontre uma maneira de se livrar delas também.
 
@@ -886,7 +886,7 @@ Cada exorcista tem seu próprio ritual, um método para “limpar” o alvo dos 
 
 # MESTRE DAS MÁQUINAS
 
-![](assets/ilustracoes/aquisicoes-image16.svg)
+![](assets/ilustracoes/aquisicoes-image16.png)
 
 Em um mundo tão dependente de computadores, celulares, websites e sistemas de criptografia — usados em bancos, sistemas de saúde e até mesmo organizações — um dom praticamente sobrenatural com computação e hacking é uma ferramenta tremendamente útil. O usuário é extremamente capacitado em todas as vertentes do manejo de aparelhagem eletrônica, seja ela portátil ou não:
 
@@ -899,7 +899,7 @@ Além disso, as habilidades são abrangentes o bastante para deduzir informaçõ
 
 # AMIGO DOS ANIMAIS
 
-![](assets/ilustracoes/aquisicoes-image17.svg)
+![](assets/ilustracoes/aquisicoes-image17.png)
 
 O grau de empatia do indivíduo é tão alto e singular que ele é capaz de fazer amizade facilmente até com seres de outras espécies, sejam criaturas mágicas ou não. Na infância, esse dom se manifestava como uma facilidade para atrair animais, fossem esquilos, coelhos ou até mesmo borboletas.
 
@@ -911,7 +911,7 @@ Já formado, o usuário mostrou-se capaz de conduzir conversas inteiras com outr
 
 # CARISMA DIABÓLICO
 
-![](assets/ilustracoes/aquisicoes-image18.svg)
+![](assets/ilustracoes/aquisicoes-image18.png)
 
 O usuário possui um carisma desigual, sendo capaz de iludir multidões inteiras através de sua oratória enganadora. Todos os outros acreditam mais facilmente nas palavras do indivíduo, sendo facilmente levados pelo que diz o indivíduo, que sempre parece ter a mão que dá as cartas dentro de um diálogo, seja ele plural ou não.
 
@@ -923,7 +923,7 @@ Além disso, possui uma relação única com a Sede de Sangue, podendo esconder 
 
 # MIRA PERFEITA
 
-![](assets/ilustracoes/aquisicoes-image19.svg)
+![](assets/ilustracoes/aquisicoes-image19.png)
 
 Ao longo dos anos, um árduo treinamento com projéteis e armas de longa distância criaram um expert no manejo de equipamentos do tipo, transformando-o em um formidável usuário de dardos, facas, balas ou técnicas de emissão que envolvam Nen.
 
