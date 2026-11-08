@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>HunterOS 98</title>
+  <meta name="description" content="HunterOS — terminal de consulta do RPG de mesa da Associação dos Caçadores.">
+  <meta name="theme-color" content="#0d3b2e">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M8 0l8 8-8 8-8-8z' fill='%23a3222c'/%3E%3Cpath d='M8 4l4 4-4 4-4-4z' fill='%23e2b33c'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Gradientes compartilhados pelos ícones -->
+  <svg class="svg-defs" width="0" height="0" aria-hidden="true" focusable="false">
+    <defs>
+      <linearGradient id="ig-gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff2b8"/><stop offset=".45" stop-color="#e8b83e"/><stop offset="1" stop-color="#9a660c"/></linearGradient>
+      <linearGradient id="ig-green" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8fe8b4"/><stop offset=".5" stop-color="#2a9a62"/><stop offset="1" stop-color="#0b4a30"/></linearGradient>
+      <linearGradient id="ig-flame" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#0b4a30"/><stop offset=".55" stop-color="#25b06a"/><stop offset="1" stop-color="#c9ffe0"/></linearGradient>
+      <radialGradient id="ig-aura" cx="50%" cy="60%" r="50%"><stop offset="0" stop-color="#7fffb4" stop-opacity=".55"/><stop offset="1" stop-color="#7fffb4" stop-opacity="0"/></radialGradient>
+      <linearGradient id="ig-red" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e65a63"/><stop offset=".5" stop-color="#a3222c"/><stop offset="1" stop-color="#5e0e15"/></linearGradient>
+      <linearGradient id="ig-paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffdf6"/><stop offset="1" stop-color="#e3d3a8"/></linearGradient>
+      <linearGradient id="ig-wood" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d0924e"/><stop offset=".55" stop-color="#8a5a2b"/><stop offset="1" stop-color="#4e3014"/></linearGradient>
+      <linearGradient id="ig-steel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#7c878c"/></linearGradient>
+      <linearGradient id="ig-blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8f6ff"/><stop offset=".5" stop-color="#5cc8e8"/><stop offset="1" stop-color="#1a6a8a"/></linearGradient>
+      <linearGradient id="ig-shine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".75"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+      <radialGradient id="ig-gem" cx="40%" cy="35%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset=".35" stop-color="#9ff0ff"/><stop offset="1" stop-color="#1683a8"/></radialGradient>
+    </defs>
+  </svg>
+
+  <!-- Tela de boot -->
+  <div id="boot" role="dialog" aria-label="Iniciando o HunterOS">
+    <pre class="boot-bios" id="boot-bios" aria-hidden="true"></pre>
+    <div class="boot-splash">
+      <div class="boot-logo" id="boot-logo"></div>
+      <div class="boot-title">Hunter<b>OS</b><span>98</span></div>
+      <div class="boot-sub">Associação dos Caçadores · Terminal de Consulta</div>
+      <div class="boot-bar" aria-hidden="true"><i></i></div>
+      <div class="boot-log" id="boot-log" aria-live="polite"></div>
+    </div>
+    <button class="boot-skip" id="boot-skip" type="button">Pular ▸ (clique ou qualquer tecla)</button>
+  </div>
+
+  <!-- Área de trabalho -->
+  <main id="desktop" aria-label="Área de trabalho">
+    <canvas id="aura" class="aura" aria-hidden="true"></canvas>
+    <div id="emblem" class="emblem" aria-hidden="true"></div>
+    <div class="desk-fx" aria-hidden="true"></div>
+    <div id="icons" class="icons" role="list"></div>
+    <div class="watermark" aria-hidden="true"><b>Hunter<i>OS</i> 98</b></div>
+    <div id="windows"></div>
+  </main>
+
+  <!-- Menu Iniciar -->
+  <div id="start-menu" class="start-menu bevel-out" hidden>
+    <div class="start-banner" aria-hidden="true"><span>Hunter<b>OS</b> 98</span></div>
+    <div class="start-main">
+      <div class="start-user"><span id="start-avatar" aria-hidden="true"></span><div><b>Caçador</b><small>Licença Hunter ativa</small></div></div>
+      <label class="start-search">
+        <span class="sr-only">Buscar nos documentos</span>
+        <input id="search" type="search" placeholder="Buscar nos documentos..." autocomplete="off" spellcheck="false">
+      </label>
+      <div id="start-list" class="start-list" role="menu"></div>
+      <div id="search-results" class="search-results" hidden></div>
+    </div>
+  </div>
+
+  <!-- Barra de tarefas -->
+  <footer id="taskbar" class="taskbar">
+    <button id="start-btn" class="start-btn bevel-out" type="button" aria-haspopup="true" aria-expanded="false">
+      <span id="start-logo" aria-hidden="true"></span><b>Iniciar</b>
+    </button>
+    <div class="task-sep" aria-hidden="true"></div>
+    <div id="task-buttons" class="task-buttons"></div>
+    <div class="tray bevel-in">
+      <span class="tray-icon" id="tray-icon" title="Conectado à Rede dos Caçadores" aria-hidden="true"></span>
+      <time id="clock" class="clock"></time>
+    </div>
+    <div id="balloon" class="balloon" role="status" hidden></div>
+  </footer>
+
+  <!-- Tela de desligar -->
+  <div id="shutdown" hidden>
+    <p>Agora é seguro desligar o seu computador.</p>
+    <small>Clique ou pressione qualquer tecla para reiniciar.</small>
+  </div>
+
+  <script src="content.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
